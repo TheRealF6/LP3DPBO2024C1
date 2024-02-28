@@ -1,4 +1,4 @@
-# LP3DPBO2024C1
+# LP4DPBO2024C1
 
 ### Janji
 Saya Muhammad Fakhri Fadhlurrahman NIM 2105997 mengerjakan soal LP3 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
