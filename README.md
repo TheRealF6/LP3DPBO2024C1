@@ -11,4 +11,5 @@ Berikut adalah diagram desain dari program ini. Kelas Car dan kelas Motorcycle m
 Program akan menambahkan data hardcode yang kemudian akan ditampilkan. Untuk data kendaraan akan dibataskan dengan kapasitas tempat parkir (jika sudah menyentuh batas, program akan memberi tahu bahwa tempat parkir sudah penuh). Urutan penampilan data dimulai dari data tempat parkir, kemudian menambahkan data kendaraan, terakhir menampilkan isi tempat parkir yaitu kendaraan-kendaraan yang telah ditambahkan.
 
 ### Dokumentasi
-![Screenshot 1](https://github.com/TheRealF6/LP4DPBO2024C1/assets/119662753/669b6a9c-d4ee-4633-9a48-caa9624e73d2)
+![Screenshot 1](https://github.com/TheRealF6/LP4DPBO2024C1/assets/119662753/669b6a9c-d4ee-4633-9a48-caa9624e73d2)<br>
+Dokumentasi gambar: Hasil eksekusi dari program (Python)
